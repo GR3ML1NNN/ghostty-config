@@ -22,4 +22,4 @@ window-decoration = false
 window-padding-y = 0,0
 window-padding-x = 0,0
 background-opacity = 0.75
-selection-background = #999999
+selection-background = #888888
